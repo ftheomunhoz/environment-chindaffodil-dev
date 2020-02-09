@@ -1,0 +1,10 @@
+adminUser:
+  password: local:chindaffodil/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: ftheomunhoz@gmail.com
+  token: local:chindaffodil/pipelineUser:token
+  username: ftheomunhoz
+prow:
+  hmacToken: local:chindaffodil/prow:hmacToken
